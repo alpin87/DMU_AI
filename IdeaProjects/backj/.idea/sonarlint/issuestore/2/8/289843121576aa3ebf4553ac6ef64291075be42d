@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+Q
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ
+B
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(ÿıÊ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Æ‹û¯
